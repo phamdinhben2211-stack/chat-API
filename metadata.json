@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Botanist AI - Plant Identifier v2",
+  "description": "An expert AI tool for identifying plants, diagnosing diseases, and providing detailed botanical information from images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
